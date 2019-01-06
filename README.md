@@ -27,10 +27,9 @@ Bootstrap.css
 ```
 
 # Acknowledgments
-```bash
-I would to thank Brad
-Follow him(Github.com/bradtraversy)
-```
+- I would to thank Brad
+- Follow him at Github.com/bradtraversy
+
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
