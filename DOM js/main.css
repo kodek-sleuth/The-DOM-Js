@@ -1,0 +1,25 @@
+.sized
+{
+    width:300px;
+}
+.butn
+{
+    width: 100px;
+}
+
+.firstwrapper
+{
+    display: grid;
+    grid-template-columns: 30% 10%;
+}
+
+#search1
+{
+    margin-left: 30px;
+}
+
+.butn-dn
+{
+    margin-left: 100px;
+}
+
